@@ -35,7 +35,7 @@
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: your.email@example.com
+- 📧 Email: vikasdevlpr00@gmail.com
 - 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vikas-vishwakarma-9255632a6/))
 - 🌐 [Portfolio]([https://your-portfolio-link.com](https://www.linkedin.com/in/vikas-vishwakarma-9255632a6/))
 
