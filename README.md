@@ -27,17 +27,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikasUsername&show_icons=true&theme=radical" alt="Vikas GitHub stats" />
+  <img src="#" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasUsername&theme=radical" alt="GitHub Streak" />
+  <img src="#" />
 </p>
 
 ---
 
 ### 📫 How to reach me:
 - 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vikas-vishwakarma-9255632a6/))
+- 🌐 [Portfolio]([https://your-portfolio-link.com](https://www.linkedin.com/in/vikas-vishwakarma-9255632a6/))
 
 ---
 
